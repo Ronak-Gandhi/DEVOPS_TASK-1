@@ -12,14 +12,14 @@
 
 ### Step by Step Process as Follow:-
 
-* _**First of all i created a Repository on `Github` ,named as DevopsTask1 and also initialised with readme**_ 
+* _**First of all i created a Repository on `Github` ,named as `DevopsTask1` and also initialised with readme**_ 
 
 
 ![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
 
 >**Firstly i implemented JOB-2**:-
 
-* _**On Gitbash (master branch),firstly i cloned my repository ,from github and then created an html file and edited on notepad,named as ronak.html**_..
+* _**On Gitbash (master branch),firstly i cloned my repository ,from github and then created an html file and edited on notepad,named as `ronak.html`**_..
 
 ![gitbash](https://user-images.githubusercontent.com/64469896/89688568-16a03380-d920-11ea-910a-7f029b9ca1e0.png)
 
@@ -29,6 +29,11 @@
 
 ![gitbash](https://user-images.githubusercontent.com/64469896/89690148-777d3b00-d923-11ea-82fb-b45eae5b43ff.png)
 
-**html file has been uploaded on github
+**html file has been uploaded on github**!!
 
 ![github](https://user-images.githubusercontent.com/64469896/89690431-1c981380-d924-11ea-84dc-89762f415a77.png)
+
+* _**On rhel-8, i created a directory named as `master` and then created one folder named as production on which jenkins will copy file and also created a Dockerfile in which i created my own customized image,from which container launched**.._
+
+
+
