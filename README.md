@@ -51,6 +51,8 @@
 
 ![jenkins3](https://user-images.githubusercontent.com/64469896/89694094-32aad180-d92e-11ea-8a0c-715237ae75b2.png)
 
+![jenkins4]()
+
 **After configuration of job2,i build it and here is console output**
 
 ![jenkins4]()
