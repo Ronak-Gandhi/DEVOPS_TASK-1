@@ -80,7 +80,7 @@
 * _**On rhel-8,i again created a directory named as `dev` and then created one folder named as testing on which jenkins will copy file and also created a Dockerfile which build the image,from which container launched**.._
 
 
-![rhel8]()
+![rhel8](https://user-images.githubusercontent.com/64469896/89696531-ebc0da00-d935-11ea-808e-24121b559f11.png)
 
 
 * _**On jenkins,i again created a JOB,named as `job1(dev-docker)env` and then configured it**_..
@@ -88,3 +88,5 @@
 ![jenkins1]()
 
 ![jenkins2]()
+
+![jenkins3]()
