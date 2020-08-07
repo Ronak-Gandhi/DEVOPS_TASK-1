@@ -8,3 +8,5 @@
 
 ### _PREREQUISITE_:-
                    * RHel-8 * Docker * Gitbash * Github * Jenkins 
+
+*first of all 
