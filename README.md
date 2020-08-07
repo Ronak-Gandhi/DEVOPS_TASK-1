@@ -8,9 +8,15 @@
 
 ### _PREREQUISITE_:-
                    * RHel-8 * Docker * Gitbash * Github * Jenkins 
+                   
 
 ### Step by Step Process as Follow:-
 
-* _First of all i created a Repository on Github ,named as DevopsTask1 and also initialised with readme.._ 
+* _First of all i created a Repository on `Github` ,named as DevopsTask1 and also initialised with readme.._ 
 
-![repo](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
+
+![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
+
+* _On Gitbash (master branch),i created an html file and edited on notepad,named as ronak.html.._
+
+![gitbash]()
