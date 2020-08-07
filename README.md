@@ -17,7 +17,7 @@
 
 ![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
 
-**Firstly i implemented job2**:-
+> **Firstly i implemented job2**:-
 
 * _**On Gitbash (master branch),firstly i cloned my repository using `git clone <repo link>` command, from github and then created an html file and edited on notepad,named as ronak.html**_..
 
