@@ -6,4 +6,4 @@
 * **JOB-3**. Manually the QA(Quality Assurance) team will check(test) for the website running in the dev-docker environment.If it is running fine,then jenkins will merge the dev branch to master branch..
 
 ### _PREREQUISITE_:-
-                    * 
+                    * >redhat
