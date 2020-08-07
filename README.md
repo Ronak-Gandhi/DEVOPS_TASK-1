@@ -35,9 +35,11 @@
 
 * _**On rhel-8,i created a directory named as `master` and then created one folder named as production on which jenkins will copy file and also created a Dockerfile in which i created my own customized image,from which container launched**.._
 
-**Before starting anything on rhel-8,i started docker and jenkins services,because both docker and jenkins are running on the top of rhel-8**..
+**Before starting anything on rhel-8,i started docker and jenkins services,because both docker and jenkins are running on the top of rhel-8 and also disabled firewalld**..
 
-![rhel8]()
+![rhel8](https://user-images.githubusercontent.com/64469896/89693419-0d1cc880-d92c-11ea-8509-35fad55449c1.png
+)
+
 
 
 
