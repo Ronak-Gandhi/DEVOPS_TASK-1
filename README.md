@@ -54,5 +54,6 @@
 
 **After putting IP of rhel8 with port no.8089(for production system),website deployed on webserver successfully....**
 
-![output]()
+![output](https://user-images.githubusercontent.com/64469896/89695081-62f36f80-d930-11ea-8abe-886251ff2f3a.png)
+
 
