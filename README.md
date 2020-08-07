@@ -87,11 +87,15 @@
 
 ![jenkins1]()
 
-![jenkins2](https://user-images.githubusercontent.com/64469896/89696536-f4b1ab80-d935-11ea-935b-cf5377532b12.png)
+![jenkins2]()
 
-![jenkins3](https://user-images.githubusercontent.com/64469896/89696540-fa0ef600-d935-11ea-9c57-c26708730d23.png)
+![jenkins3]()
 
 
 **After configuration of job2,i build it and here is console output**
 
 ![console]()
+
+**After putting IP of rhel8 with port no.8082(for testing environment),website deployed on webserver successfully....**
+
+![output]()
