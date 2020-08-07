@@ -36,7 +36,7 @@
 
 ![github](https://user-images.githubusercontent.com/64469896/89690431-1c981380-d924-11ea-84dc-89762f415a77.png)
 
-* _**On rhel-8,i created a directory named as `master` and then created one folder named as production on which jenkins will copy file and also created a Dockerfile in which i created my own customized image,from which container launched**.._
+* _**On rhel-8,i created a directory named as `master` and then created one folder named as production on which jenkins will copy file and also created a Dockerfile which build the image,from which container launched**.._
 
 **Before starting anything on rhel-8,i started docker and jenkins services,because both docker and jenkins are running on the top of rhel-8 and also disabled firewalld**..
 
@@ -75,3 +75,7 @@
 ![github](https://user-images.githubusercontent.com/64469896/89695906-5b819580-d933-11ea-999b-a63c3da0efc9.png)
 
 
+* _**On rhel-8,i again created a directory named as `dev` and then created one folder named as testing on which jenkins will copy file and also created a Dockerfile which build the image,from which container launched**.._
+
+
+![rhel8]()
