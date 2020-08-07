@@ -67,5 +67,5 @@
 
 ![gitbash1](https://user-images.githubusercontent.com/64469896/89695625-5a9c3400-d932-11ea-98aa-34d36081597f.png)
 
-![gitbash2]()
+![gitbash2](https://user-images.githubusercontent.com/64469896/89695639-625bd880-d932-11ea-8acc-b3624c6ca0d0.png)
 
