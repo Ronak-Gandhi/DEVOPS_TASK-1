@@ -12,11 +12,13 @@
 
 ### Step by Step Process as Follow:-
 
-* _First of all i created a Repository on `Github` ,named as DevopsTask1 and also initialised with readme.._ 
+* _** First of all i created a Repository on `Github` ,named as DevopsTask1 and also initialised with readme**_ 
 
 
 ![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
 
-* _On Gitbash (master branch),i created an html file and edited on notepad,named as ronak.html.._
+**Firstly i implemented job2(master)
 
-![gitbash]()
+* _**On Gitbash (master branch),i created an html file and edited on notepad,named as ronak.html*..
+
+![gitbash](https://user-images.githubusercontent.com/64469896/89688568-16a03380-d920-11ea-910a-7f029b9ca1e0.png)
