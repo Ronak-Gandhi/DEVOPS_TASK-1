@@ -78,4 +78,8 @@
 * _**On rhel-8,i again created a directory named as `dev` and then created one folder named as testing on which jenkins will copy file and also created a Dockerfile which build the image,from which container launched**.._
 
 
+![rhel8](https://user-images.githubusercontent.com/64469896/89696140-26297780-d934-11ea-8b7c-9fd8820b2238.png)
+
+![rhel8]()
+
 ![rhel8]()
