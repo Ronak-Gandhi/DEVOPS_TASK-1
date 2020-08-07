@@ -59,5 +59,13 @@
 ![output](https://user-images.githubusercontent.com/64469896/89695081-62f36f80-d930-11ea-8abe-886251ff2f3a.png)
 
 
+
 >## _Implementation of job-1_ :-
+
+
+* _**On Gitbash(dev branch), i added some more lines on the same html file and then uploaded on github**_..
+
+![gitbash1]()
+
+![gitbash2]()
 
