@@ -80,6 +80,6 @@
 
 ![rhel8](https://user-images.githubusercontent.com/64469896/89696140-26297780-d934-11ea-8b7c-9fd8820b2238.png)
 
-![rhel8]()
+![rhel8](https://user-images.githubusercontent.com/64469896/89696146-2cb7ef00-d934-11ea-81ac-c62ab680b5c7.png)
 
 ![rhel8]()
