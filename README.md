@@ -19,6 +19,6 @@
 
 **Firstly i implemented job2**:-
 
-* _**On Gitbash (master branch),i created an html file and edited on notepad,named as ronak.html**..
+* _**On Gitbash (master branch),firstly i cloned my repository using `git clone <repo link>` command, from github and then created an html file and edited on notepad,named as ronak.html**_..
 
 ![gitbash](https://user-images.githubusercontent.com/64469896/89688568-16a03380-d920-11ea-910a-7f029b9ca1e0.png)
