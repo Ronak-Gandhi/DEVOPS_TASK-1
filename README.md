@@ -17,7 +17,9 @@
 
 ![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
 
->## _Firstly i Implemented `JOB-2` :-
+
+>## _Firstly i Implemented `JOB-2`_ :-
+
 
 * _**On Gitbash (master branch),firstly i cloned my repository ,from github and then created an html file and edited on notepad,named as `ronak.html`**_..
 
@@ -56,4 +58,6 @@
 
 ![output](https://user-images.githubusercontent.com/64469896/89695081-62f36f80-d930-11ea-8abe-886251ff2f3a.png)
 
+
+>## _Implementation of job-1_ :-
 
