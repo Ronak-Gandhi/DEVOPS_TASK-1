@@ -98,4 +98,4 @@
 
 **After putting IP of rhel8 with port no.8082(for testing environment),website deployed on webserver successfully....**
 
-![output]()
+![output](https://user-images.githubusercontent.com/64469896/89696845-46a70100-d937-11ea-835a-50ee9b3cd708.png)
