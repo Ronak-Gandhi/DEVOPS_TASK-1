@@ -85,7 +85,7 @@
 
 * _**On jenkins,i again created a JOB,named as `job1(dev-docker)env` and then configured it**_..
 
-![jenkins1]()
+![jenkins1](https://user-images.githubusercontent.com/64469896/89697866-d058cd80-d93b-11ea-97a1-111220827eab.png)
 
 ![jenkins2]()
 
