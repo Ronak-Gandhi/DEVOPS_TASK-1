@@ -51,7 +51,7 @@
 
 ![jenkins3](https://user-images.githubusercontent.com/64469896/89694094-32aad180-d92e-11ea-8a0c-715237ae75b2.png)
 
-![jenkins4]()
+![jenkins4](https://user-images.githubusercontent.com/64469896/89697853-c20ab180-d93b-11ea-8edd-6bbf6c1ccf9f.png)
 
 **After configuration of job2,i build it and here is console output**
 
