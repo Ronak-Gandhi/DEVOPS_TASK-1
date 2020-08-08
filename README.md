@@ -120,4 +120,5 @@
 
 **After putting IP of rhel-8 with port no.8082(production environment),because we merged dev into docker and it deployed successfully**..
 
-![output]()
+![output](https://user-images.githubusercontent.com/64469896/89697288-22e4ba80-d939-11ea-9422-5d7396b87a1c.png)
+
