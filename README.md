@@ -55,7 +55,7 @@
 
 **After configuration of job2,i build it and here is console output**
 
-![jenkins4]()
+![jenkins4](https://user-images.githubusercontent.com/64469896/89697858-c6cf6580-d93b-11ea-8613-21d0b1e3b304.png)
 
 **After putting IP of rhel8 with port no.8089(for production environment),website deployed on webserver successfully....**
 
