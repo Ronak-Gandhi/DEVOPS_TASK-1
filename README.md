@@ -114,6 +114,10 @@
 ![jenkins3]()
 
 
-**After configuration of job3,i build it and here is console output**
+**After configuration of job3,i build it and here is console output**..
 
-![console]()
+![console](https://user-images.githubusercontent.com/64469896/89697140-6be83f00-d938-11ea-982e-ceb6c48d2f3b.png)
+
+**After putting IP of rhel-8 with port no.8082(production environment),because we merged dev into docker and it deployed successfully**..
+
+![output]()
