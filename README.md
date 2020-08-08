@@ -87,14 +87,14 @@
 
 ![jenkins1](https://user-images.githubusercontent.com/64469896/89697866-d058cd80-d93b-11ea-97a1-111220827eab.png)
 
-![jenkins2]()
+![jenkins2](https://user-images.githubusercontent.com/64469896/89698074-d602e300-d93c-11ea-9707-67d93806ed8c.png)
 
-![jenkins3]()
+![jenkins3](https://user-images.githubusercontent.com/64469896/89697947-3ba29f80-d93c-11ea-9e73-adab360af595.png)
 
 
 **After configuration of job2,i build it and here is console output**
 
-![console]()
+![console](https://user-images.githubusercontent.com/64469896/89697953-41988080-d93c-11ea-8d84-8d77fee90845.png)
 
 **Now the Quality Assurance(QA) team manually check,if website running fine or not,,After putting IP of rhel8 with port no.8082(for testing environment),website deployed on webserver successfully....**
 
@@ -107,11 +107,11 @@
 
 * _**On jenkins,i again created a JOB,named as `job3(merge)` and then configured it**_..
 
-![jenkins1]()
+![jenkins1](https://user-images.githubusercontent.com/64469896/89697968-5543e700-d93c-11ea-92f6-aaa82353ff13.png)
 
-![jenkins2]()
+![jenkins2](https://user-images.githubusercontent.com/64469896/89697970-5aa13180-d93c-11ea-8772-fe522b622953.png)
 
-![jenkins3]()
+![jenkins3](https://user-images.githubusercontent.com/64469896/89697976-60971280-d93c-11ea-86ac-7508bea38879.png)
 
 
 **After configuration of job3,i build it and here is console output**..
