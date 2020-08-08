@@ -57,7 +57,7 @@
 
 ![jenkins4]()
 
-**After putting IP of rhel8 with port no.8089(for production system),website deployed on webserver successfully....**
+**After putting IP of rhel8 with port no.8089(for production environment),website deployed on webserver successfully....**
 
 ![output](https://user-images.githubusercontent.com/64469896/89695081-62f36f80-d930-11ea-8abe-886251ff2f3a.png)
 
@@ -96,6 +96,24 @@
 
 ![console]()
 
-**After putting IP of rhel8 with port no.8082(for testing environment),website deployed on webserver successfully....**
+**Now the Quality Assurance(QA) team manually check,if website running fine or not,,After putting IP of rhel8 with port no.8082(for testing environment),website deployed on webserver successfully....**
 
 ![output](https://user-images.githubusercontent.com/64469896/89696845-46a70100-d937-11ea-835a-50ee9b3cd708.png)
+
+---
+
+>## _Implementation of job-3_ :-
+
+
+* _**On jenkins,i again created a JOB,named as `job3(merge)` and then configured it**_..
+
+![jenkins1]()
+
+![jenkins2]()
+
+![jenkins3]()
+
+
+**After configuration of job3,i build it and here is console output**
+
+![console]()
