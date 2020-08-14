@@ -82,6 +82,10 @@
 
 ![rhel8](https://user-images.githubusercontent.com/64469896/89696531-ebc0da00-d935-11ea-808e-24121b559f11.png)
 
+![rhel8](https://user-images.githubusercontent.com/64469896/90269256-fe776980-de75-11ea-8df7-297745e54bcc.png)
+
+
+
 
 * _**On jenkins,i again created a JOB,named as `job1(dev-docker)env` and then configured it**_..
 
