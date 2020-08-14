@@ -15,7 +15,7 @@
 * _**First of all i created a Repository on `Github` ,named as `DevopsTask1` and also initialised with readme**_ 
 
 
-![github](https://user-images.githubusercontent.com/64469896/89687854-8f9e8b80-d91e-11ea-981d-1d253438b41e.png)
+![github](https://user-images.githubusercontent.com/64469896/90269190-ddaf1400-de75-11ea-883e-4e6140f42457.png)
 
 ---
 
