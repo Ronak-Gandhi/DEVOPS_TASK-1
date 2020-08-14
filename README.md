@@ -43,6 +43,9 @@
 ![rhel8](https://user-images.githubusercontent.com/64469896/89693419-0d1cc880-d92c-11ea-8509-35fad55449c1.png
 )
 
+![rhel8](https://user-images.githubusercontent.com/64469896/90289322-41970400-de99-11ea-9163-258535c0455b.png)
+
+
 * _**On jenkins,firstly i installed github plugin and created a JOB,named as `job2(master-docker)env` and then configured it**_..
 
 ![jenkins1](https://user-images.githubusercontent.com/64469896/89694080-258de280-d92e-11ea-8347-849e66d8220c.png)
